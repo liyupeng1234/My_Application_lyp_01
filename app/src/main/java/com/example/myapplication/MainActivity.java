@@ -23,4 +23,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 //bdshbchjs
+//第一次推送测试
+//20240605
+
 
